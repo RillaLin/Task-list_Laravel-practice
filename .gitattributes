@@ -1,1 +1,4 @@
 *.psd filter=lfs diff=lfs merge=lfs -text
+text.rar filter=lfs diff=lfs merge=lfs -text
+C:/Users/dbkla/bin/Text.rar filter=lfs diff=lfs merge=lfs -text
+C:/Users/dbkla/bin/Text filter=lfs diff=lfs merge=lfs -text
